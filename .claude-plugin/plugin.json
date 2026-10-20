@@ -1,0 +1,11 @@
+{
+  "name": "opentriangle",
+  "version": "1.0.0",
+  "description": "Search businesses, check availability, and book appointments on OpenTriangle",
+  "author": {
+    "name": "Bear Mountain Labs LLC",
+    "url": "https://opentriangle.ai"
+  },
+  "license": "MIT",
+  "keywords": ["appointments", "booking", "scheduling", "business"]
+}

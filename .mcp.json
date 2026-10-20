@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "opentriangle": {
+      "command": "python3",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/servers/opentriangle_mcp.py"],
+      "env": {
+        "OPENTRIANGLE_API_URL": "https://api.opentriangle.ai",
+        "OPENTRIANGLE_API_TOKEN": "${OPENTRIANGLE_API_TOKEN}"
+      }
+    }
+  }
+}
